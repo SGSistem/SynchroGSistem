@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: synchrogest-app
+    name: synchrogest-backend
     env: python
     runtime: "python-3.11.11" 
     rootDir: backend

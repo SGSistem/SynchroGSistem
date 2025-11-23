@@ -102,4 +102,3 @@ app/gerar_hash.py
 create_admin.py
 create_user.py
 schema.sql
-
